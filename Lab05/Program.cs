@@ -12,7 +12,6 @@ Console.WriteLine("2. Сфера");
 
 string choice = Console.ReadLine();
 Сircle shape;
-double radius;
 
 switch (choice)
 {
